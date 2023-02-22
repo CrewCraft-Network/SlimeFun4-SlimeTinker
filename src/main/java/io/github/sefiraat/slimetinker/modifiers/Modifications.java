@@ -61,15 +61,15 @@ public class Modifications {
         MOD_MAP_EMERALD_TOOL.put(4, 2048);
 
         MOD_MAP_PLATE.put(1, 1);
-        MOD_MAP_PLATE.put(2, 1);
-        MOD_MAP_PLATE.put(3, 1);
-        MOD_MAP_PLATE.put(4, 1);
-        MOD_MAP_PLATE.put(5, 1);
-        MOD_MAP_PLATE.put(6, 1);
-        MOD_MAP_PLATE.put(7, 1);
-        MOD_MAP_PLATE.put(8, 1);
-        MOD_MAP_PLATE.put(9, 1);
-        MOD_MAP_PLATE.put(10, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
+        MOD_MAP_PLATE.put(1, 1);
 
         // ALL NEW MODS MUST BE PLACED AFTER EXISTING ONES
 
